@@ -7,7 +7,7 @@
 <br>
 <p>Well, Hi! I'm ChickenSwimmer2020. that one furry who taught himself more than his school could!</p>
 
-Theres a few projects i am activly working on, for example: [Relocation Failed](https://github.com/ChickenSwimmer2020/Relocation_Failed)! there is also [The MegaMod](https://github.com/ChickenSwimmer2020/Friday-Night-Funkin-Mega-Mod) (AKA: FNF':MM) which is more of a dead air project... for now[^1]
+Theres a few projects i am activly working on, for example: [Relocation Failed](https://github.com/ChickenSwimmer2020/Relocation_Failed)! there is also [The MegaMod](https://github.com/ChickenSwimmer2020/Friday-Night-Funkin-Mega-Mod) (AKA: FNF':MM) which is more of a dead air project... for now
 Other than those, I Tend to code more in [HaxeFlixel](https://haxeflixel.com) than anything honestly.
 
 I dont really know what else to put here, so i guess thats the end of this document until i get more ideas. :/
@@ -18,10 +18,8 @@ I dont really know what else to put here, so i guess thats the end of this docum
 <h6 align="center"><strong> Stats <br> additional little things about my github profile </strong></h6>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ChickenSwimmer2020&theme=tokyonight" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=ChickenSwimmer2020&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChickenSwimmer2020&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChickenSwimmer2020&layout=compact&langs_count=8&card_width=320&theme=ambient_gradient" />
 </a>
-
-[^1]: <p align="center">You could help change this! if you do want to help make MegaMod an actual thing, make sure to head over to the <a href="https://github.com/ChickenSwimmer2020/Friday-Night-Funkin-Mega-Mod">repository</a> and see if you can make this a real thing! </p>
