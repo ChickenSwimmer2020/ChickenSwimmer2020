@@ -23,5 +23,5 @@ I dont really know what else to put here, so i guess thats the end of this docum
   <img height=200 align="lect" src="https://github-readme-stats.vercel.app/api?username=ChickenSwimmer2020&card_width=320&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChickenSwimmer2020&layout=compact&langs_count=4&hide=lua,shell&card_width=100&theme=ambient_gradient" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChickenSwimmer2020&layout=compact&langs_count=4&hide=lua,shell&card_width=50&theme=ambient_gradient" />
 </a>
