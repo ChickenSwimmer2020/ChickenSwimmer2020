@@ -18,8 +18,8 @@ I dont really know what else to put here, so i guess thats the end of this docum
 <h6 align="center"><strong> Stats <br> additional little things about my github profile </strong></h6>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=ChickenSwimmer2020&theme=ambient_gradient" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ChickenSwimmer2020&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChickenSwimmer2020&layout=compact&langs_count=8&card_width=320&theme=ambient_gradient" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChickenSwimmer2020&layout=compact&langs_count=8&card_width=320&theme=ambient_gradient" />
 </a>
