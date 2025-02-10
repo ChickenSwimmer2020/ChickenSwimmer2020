@@ -15,7 +15,7 @@ I dont really know what else to put here, so i guess thats the end of this docum
 > [!IMPORTANT]
 > if my coding looks bad, thats because im a beginner. dont be mad at me if i mess something up thats easy to do.
 
-<h6 align="center"><strong> Stats <br> additional little things about my github profile </strong></h6>
+<h6><strong> Stats <br> additional little things about my github profile </strong></h6>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ChickenSwimmer2020&theme=ambient_gradient" />
