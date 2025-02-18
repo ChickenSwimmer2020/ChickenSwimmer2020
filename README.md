@@ -7,8 +7,8 @@
 <br>
 <p>Well, Hi! I'm ChickenSwimmer2020. that one furry who taught himself more than his school could!</p>
 
-Theres a few projects i am activly working on, for example: [Relocation Failed](https://github.com/ChickenSwimmer2020/Relocation_Failed)! there is also [The MegaMod](https://github.com/ChickenSwimmer2020/Friday-Night-Funkin-Mega-Mod) (AKA: FNF':MM) which is more of a dead air project... for now
-Other than those, I Tend to code more in [HaxeFlixel](https://haxeflixel.com) than anything honestly.
+Theres a few projects i am activly working on, for example: [Relocation Failed](https://github.com/ChickenSwimmer2020/Relocation_Failed)! there is also [The MegaMod](https://github.com/ChickenSwimmer2020/Friday-Night-Funkin-Mega-Mod) (AKA: FNF':MM) which is more of a dead air project... for now <br>
+Other than those, I tend to code more in [HaxeFlixel](https://haxeflixel.com) than anything honestly.
 
 I dont really know what else to put here, so i guess thats the end of this document until i get more ideas. :/
 
