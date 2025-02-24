@@ -2,7 +2,7 @@
 > You are entering the gay zone, proceed at your own risk!.
 
 <p align="center" font-size="24"><strong><em>ChickenSwimmer2020</em></strong></p>
-<p align="center"><strong>that one furry who taught himself everything he knows for programming</strong></p>
+<p align="center"><strong>Who let me cook? I did</strong></p>
 <p align="left"> Your local gay protogen who likes to program, compose, and animate!</p>
 <br>
 <p>Well, Hi! I'm ChickenSwimmer2020. that one furry who taught himself more than his school could!</p>
